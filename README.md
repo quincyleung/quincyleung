@@ -19,8 +19,8 @@ Collaborative game platform developed as part of CMSC 22000. Focused on the deve
 ### [Rabble](https://github.com/quincyleung/rabble) *(Coursework)*
 Reddit-style web application built with **Django**. Implemented full CRUD functionality for posts and comments, developed REST API endpoints with session-based authentication, and added UI features such as threaded replies, user settings, and private subforums.
 
-### Blokus Game *(Coursework – Private Repo)*
-Multiplayer Blokus implementation with full game logic + strategic bot players, GUI (**Pygame**), text interface (**Click**), and unit tests (**Pytest**).
+### [Blokus](https://github.com/quincyleung/rabble) *(Coursework)*
+Multiplayer Blokus game implementation with full game logic + strategic bot players, GUI (**Pygame**), text interface (**Click**), and unit tests (**Pytest**).
 
 ### WoZ Platform *(UChicago HRI Lab — Private)*
 Built a Wizard-of-Oz interface for the Misty robot (**Python**, **ROS2**, **UTM**).
